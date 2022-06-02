@@ -9,3 +9,4 @@
 | [Исследование тарифных планов сотовой связи](https://github.com/azhe30/yandex-praktikum-projects/tree/main/research_of_the_mobile_operator_tariffs) | Проверка прибыльности тарифных планов оператора сотовой связи| *pandas*, *matplotlib*, *scipy*, *numpy*, *functools*|
 | [Исследование данных о компьютерных играх](https://github.com/azhe30/yandex-praktikum-projects/tree/main/computer_games_data_research) | Проверка определяющих успешность компьютерных игр закономерностей| *pandas*, *matplotlib*, *scipy*, *numpy*, *plotly*|
 | [Рекомендация тарифов](https://github.com/azhe30/yandex-praktikum-projects/tree/main/tariff_recommendation) | Построение модели для задачи классификации поведения клиентов на архивных тарифах мобильного оператора| *pandas*, *sklearn*|
+| [Отток клиентов](https://github.com/azhe30/yandex-praktikum-projects/tree/main/customer_churn) | Построение модели для прогнозирования оттока клиентов банка| *pandas*, *sklearn*, *plotly.express*|
